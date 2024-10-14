@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 
 <h3>A software, Big Data and Cloud Computing Engineer</h3>
-<h4>When I code I rely on</h4>
+<h4>As a Software Engineer I rely on</h4>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -34,17 +34,13 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
+<h4>As a Big Data and Cloud Computing Engineer, I rely on:</h4> <p> <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" /> <img alt="Apache Sedona" src="https://img.shields.io/badge/-Apache%20Sedona-FF5733?style=flat-square&logo=apache&logoColor=white" /> <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" /> <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" /> <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> <img alt="IBM Cloud" src="https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=ibm-cloud&logoColor=white" /> <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white" /> <img alt="Databricks" src="https://img.shields.io/badge/-Databricks-EF4B3C?style=flat-square&logo=databricks&logoColor=white" /> </p>
 <h3>My most recent articles</h3>
 <ul>
-  <li><a href="[https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414](https://medium.com/@ilhamoulakbir/preparing-for-hackathons-as-an-engineering-student-a-complete-guide-to-success-f95197eee19a)"><i>Preparing for Hackathons as an Engineering Student: A Complete Guide to Success</i></a></li>
-  <li><a href="[https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658](https://ensuringdataqualityandgovernance.hashnode.dev/best-practices-for-data-engineers-ensuring-data-quality-and-governance)"><i>Ensuring Data Quality and Governance</i></a></li>
-  <li><a href="[https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173](https://www.linkedin.com/pulse/unlocking-power-spatial-data-processing-apache-sedona-ilham-oulakbir-qdo0e/?trackingId=Aa1GoTUATraYLE0M2CMTqA%3D%3D)"><i>Unlocking the Power of Spatial Data Processing with Apache Sedona</i></a></li>
+  <li><a href="https://medium.com/@ilhamoulakbir/preparing-for-hackathons-as-an-engineering-student-a-complete-guide-to-success-f95197eee19a"><i>Preparing for Hackathons as an Engineering Student: A Complete Guide to Success</i></a></li>
+  <li><a href="https://ensuringdataqualityandgovernance.hashnode.dev/best-practices-for-data-engineers-ensuring-data-quality-and-governance"><i>Ensuring Data Quality and Governance</i></a></li>
+  <li><a href="https://www.linkedin.com/pulse/unlocking-power-spatial-data-processing-apache-sedona-ilham-oulakbir-qdo0e/?trackingId=Aa1GoTUATraYLE0M2CMTqA%3D%3D"><i>Unlocking the Power of Spatial Data Processing with Apache Sedona</i></a></li>
 </ul>
-
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
-
-<a href="https://www.buymeacoffee.com/cycosad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h3>My GitHub contributions summary</h3>
 

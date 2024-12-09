@@ -64,7 +64,7 @@
 
 In addition to automated detection, fans in the stadium are given a QR code they can scan on their smartphones. If they witness violence or any urgent situation, they can use this system to report it discreetly and in real-time. This enables fast and precise communication with stadium authorities, ensuring the issue is addressed promptly.
 
-- **[SynoptiXpress](https://github.com/Oulakbir/SynoptiXpress)**  
+- **[SynoptiXpress](https://github.com/Oulakbir/SynopController)**  
  This pioneering application for detecting anomalies in weather synoptic messages offers an innovative approach to identifying significant variations in weather data. Our solution enables meteorologists and climate experts to quickly spot unexpected patterns, facilitating meticulous analysis of atmospheric conditions and early detection of anomalous trends.
 
 ---

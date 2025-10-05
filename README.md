@@ -2,7 +2,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![](https://komarev.com/ghpvc/?username=cycosad&color=fb4462)
 
 <h3>A software, Big Data and Cloud Computing Engineer</h3>
 <h4>As a Software Engineer I rely on</h4>
